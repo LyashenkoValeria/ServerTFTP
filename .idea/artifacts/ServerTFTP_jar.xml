@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ServerTFTP:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ServerTFTP_jar</output-path>
+    <root id="archive" name="ServerTFTP.jar">
+      <element id="module-output" name="ServerTFTP" />
+    </root>
+  </artifact>
+</component>
